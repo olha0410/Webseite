@@ -1,0 +1,54 @@
+button{
+    background: transparent;
+    border: 2px solid #fff;
+    color: white;
+    border-radius: 30px;
+    padding: 10px 30px;
+    background-color: black;
+    font-size: 150%;
+}
+h1{
+    color: rgb(215, 215, 23);
+    font-size: 470%;
+    font-family: arial;
+    text-align: left;
+    margin-top: 70px;
+    margin-left: 16px;
+}
+p{
+    color: white;
+    font-size: 160%;
+    font-family: arial;
+    margin-left: 16px;
+    margin-bottom: 300px;
+}
+h2{
+    color: rgb(215, 215, 23);
+    font-size:270%;
+    font-family: arial;
+    text-align: center;
+    margin-top: -250px;
+    margin-bottom: 50px;
+}
+p{
+    color:white;
+    font-size: 190%;
+    font-family:arial;
+    text-align:left;
+    
+}
+button{
+    background: transparent;
+    border: 2px solid #fff;
+    color: white;
+    border-radius: 30px;
+    padding: 10px 30px;
+    background-color: rgb(45, 44, 44);
+    font-size: 200%;
+    font-family: arial;
+    
+    margin-bottom: 30px;
+}
+.container-buttons{
+    display:flex;
+}

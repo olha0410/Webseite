@@ -1,0 +1,25 @@
+h2{
+   color:rgb(215, 215, 23);
+   font-family:arial;
+   font-size: 300%;
+   text-align: center;
+   margin-top: 120px; 
+}
+h3{
+    color:rgb(215, 215, 23);
+    font-family:arial;
+    font-size: 200%;
+    text-align: center;
+}
+button{
+    background: transparent;
+    border: 2px solid #fff;
+    color: white;
+    border-radius: 30px;
+    padding: 10px 30px;
+    background-color: rgb(45, 44, 44);
+    font-size: 200%;
+    font-family: arial;
+    margin-top:70px;
+    margin-bottom: 30px;
+}
